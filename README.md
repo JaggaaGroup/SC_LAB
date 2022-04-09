@@ -11,5 +11,8 @@
 |-- Lab 3 
     |-- som.py 
     |-- sompy (modified library) 
+|-- Lab 4 
+    |-- hopfield.py
+    |-- att48_xy.txt (input file)
 </pre>
 
